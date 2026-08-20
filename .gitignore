@@ -5,5 +5,9 @@ out/
 *.log
 .env*
 !.env.example
+AGENTS.md
+CLAUDE.md
+DESIGN.md
+PRODUCT.md
 .impeccable/
 /*.png
